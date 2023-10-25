@@ -1,0 +1,348 @@
+@media(max-width:1399px){
+    .nafiz {
+        width: 34% !important;
+    }
+    .banner_img {
+        width: 49%;
+    }
+}
+@media(max-width:1199px){
+    .icon {
+        font-size: 26px;
+    }
+    .info h5 {
+        font-size: 16px;
+    }
+    .info p {
+        font-size: 11px;
+    }
+    .nafiz {
+        width: 37%;
+    }
+    .welcome-img {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .welcome-img img {
+        position: inherit;
+        width: 100%;
+    }
+    .features_item_row {
+        padding-top: 30px;
+    }
+    .features_section {
+        padding-bottom: 30px;
+    }
+    .footer_icon_info p {
+        font-size: 15px;
+    }
+    .follow_us h3 {
+        font-size: 23px;
+    }
+    .mail_content button {
+        padding: 7px 10px;
+    }
+}
+@media(max-width:991px){
+    .info_menu {
+        justify-content: center;
+    }
+    .icon {
+        font-size: 25px;
+    }
+    .info {
+       margin: 0;
+    }
+    .info h5 {
+        font-size: 13px;
+    }
+    .banner_content h1 {
+        font-size: 27px;
+    }
+    .banner_content h4 {
+        font-size: 20px;
+    }
+    .banner_img{
+        width: 56%;
+    }
+    .info p {
+        font-size: 9px;
+    }
+    .banner_img {
+        right: 0;
+        bottom: 30px;
+        width: 57%;
+    }
+    .nafiz{
+        width: 41%;
+    }
+    .welcome_section {
+        padding: 30px 0px;
+    }
+    .welcome-img {
+        display: flex;
+        align-items: center;
+    }
+    .welcome-img img {
+        width: 100%;
+        position: inherit;
+    }
+    .Headding_content h1 {
+        font-size: 23px;
+    }
+    .Headding_content p {
+        margin-bottom: 14px;
+        font-size: 13px;
+    }
+    .welcome_content h4 {
+        font-size: 17px;
+    }
+    .footer_icon {
+        width: 40px;
+    }
+    .img_icon_content{
+        margin-bottom: 15px;
+    }
+    .img_icon_content p {
+        font-size: 12px;
+        margin: 0;
+    }
+    .img_icon_content h6 {
+        font-size: 12px;
+        margin-top: 2px;
+    }
+    .img_icon {
+        width: 100px;
+        margin-bottom: 0;
+    }
+    .footer_item p {
+        padding: 0;
+    }
+    .footer_icon_info p {
+        font-size: 12px;
+    }
+    .footer_icon_item {
+        margin-top: 5px;
+        padding: 0;
+    }
+    .follow_us h3 {
+        font-size: 17px;
+    }
+    .follow_us ul li {
+        width: 24px;
+        height: 100%;
+        margin-left: 3px;
+    }
+    .mail_content input {
+        font-size: 13px;
+    }
+    .mail_content button {
+        padding: 5px 5px;
+        font-size: 13px;
+    }
+}
+@media(max-width:767px){
+    .logo img {
+        width: 40%;
+    }
+    .logo {
+        margin-bottom: 10px;
+    }
+    .info_menu {
+        display: flex;
+        justify-content: space-between;
+    }
+    .info_item {
+        margin: 0;
+    }
+    .icon {
+        font-size: 25px;
+    }
+    .info h5 {
+        font-size: 17px;
+    }
+    .nav-link {
+        padding: 15px 15px !important;
+        display: inline-block;
+    }
+    .second_banner_img {
+        width: 67%;
+        margin: auto;
+    }
+    .banner_img {
+        display: none;
+    }
+    .banner_img_hiden{
+        display: inherit;
+        margin-top: 25px;
+    }
+    .banner_item {
+        min-height: 70vh;
+    }
+    .banner_content {
+        text-align: center;
+    }
+    .welcome_section {
+        padding: 30px 0px;
+    }
+    .welcome-img {
+        text-align: center;
+    }
+    .welcome-img img {
+        position: inherit;
+        width: 85%;
+    }
+    .Headding_content {
+        text-align: center;
+    }
+    .Headding_content h1 {
+        margin-top: 12px;
+    }
+    .Headding_content p {
+        margin-bottom: 15px;
+    }
+    .features_not_padding{
+        padding-top: 0;
+    }
+    .pricing_item {
+        width: 80%;
+        margin: auto;
+        margin-bottom: 12px;
+    }
+    .clint_img {
+        width: 50%;
+    }
+    .clint_section{
+        padding-bottom: 0;
+    }
+    .footer_icon_info p {
+        font-size: 15px;
+    }
+    .footer_newsletter_title h4 {
+        padding-bottom: 15px;
+    }
+    .mail_content button {
+        padding: 9px 10px;
+    }
+    .follow_us h3 {
+        font-size: 22px;
+    }
+    .img_icon {
+        width: 55px;
+        height: 55px;
+        margin-right: 10px;
+        margin-bottom: 10px;
+    }
+    .footer_send_title h4 {
+        padding-bottom: 16px;
+    }
+}
+@media(max-width:575px){
+    .logo img {
+        width: 50%;
+    }
+    .logo {
+        margin-bottom: 20px;
+    }
+    .info_menu {
+        display: inline;
+    }
+    .info_item {
+        margin: 0;
+        margin-bottom: 8px;
+    }
+    .icon {
+        font-size: 25px;
+    }
+    .info h5 {
+        font-size: 17px;
+    }
+    .nav-link {
+        padding: 15px 15px !important;
+        display: inline-block;
+    }
+    .second_banner_img {
+        width: 53% !important;
+        margin: auto;
+    }
+    .banner_img {
+        display: none;
+    }
+    .banner_img_hiden{
+        display: inherit;
+        margin-top: 25px;
+    }
+    .banner_item {
+        min-height: 70vh;
+    }
+    .banner_content {
+        text-align: center;
+    }
+    .banner_content h4 {
+        font-size: 22px !important;
+    }
+    .banner_img_hiden {
+        width: 80%;
+        margin: auto;
+    }
+    .welcome_section {
+        padding: 30px 0px;
+    }
+    .welcome-img {
+        text-align: center;
+    }
+    .welcome-img img {
+        position: inherit;
+        width: 85%;
+    }
+    .Headding_content {
+        text-align: center;
+    }
+    .Headding_content h1 {
+        margin-top: 12px;
+    }
+    .Headding_content p {
+        margin-bottom: 15px;
+    }
+    .features_item {
+        margin-bottom: 15px;
+        display: inline-block;
+    }
+    .main_fetures_item {
+        text-align: center;
+    }
+    .features_not_padding{
+        padding-top: 0;
+    }
+    .pricing_item {
+        width: 80%;
+        margin: auto;
+        margin-bottom: 12px;
+    }
+    .clint_img {
+        width: 50%;
+    }
+    .clint_section{
+        padding-bottom: 0;
+    }
+    .footer_icon_info p {
+        font-size: 15px;
+    }
+    .footer_newsletter_title h4 {
+        padding-bottom: 15px;
+    }
+    .mail_content button {
+        padding: 9px 10px;
+    }
+    .follow_us h3 {
+        font-size: 22px;
+    }
+    .img_icon {
+        width: 50px;
+        height: 50px;
+        margin-right: 10px;
+        margin-bottom: 10px;
+    }
+    
+}
